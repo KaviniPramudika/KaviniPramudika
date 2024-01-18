@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kavini Wickramasooriya</h1>
-<h3 align="center">I'm an undergraduate in Software Engineering from Sri Lanka</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavinipramudika&label=Profile%20views&color=0e75b6&style=flat" alt="kavinipramudika" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavinipramudika" alt="kavinipramudika" /></a> </p>
+<h3 align="center">I'm an undergraduate in Software Engineering.</h3>
 
 - 🌱 I’m currently learning **Java, MERN Stack, Python.**
 
-- 👯 I’m looking to collaborate on **web development projects**
+- 🤝 I’m looking for help with **web development projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaviniPramudika](https://github.com/KaviniPramudika)
 
