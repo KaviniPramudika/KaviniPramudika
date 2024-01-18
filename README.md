@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **kaviniwickramasooriya@gmail.com**
 
+<a href="https://www.github.com/KaviniPramudika" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/KaviniPramudika?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kavini-wickramasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavini-wickramasooriya" height="30" width="40" /></a>
