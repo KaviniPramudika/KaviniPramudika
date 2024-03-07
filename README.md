@@ -16,8 +16,6 @@
 
 - 🤝 I’m looking for help with **web development projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KaviniPramudika](https://github.com/KaviniPramudika)
-
 - 💬 Ask me about **C, C++, HTML, CSS, JavaScript, PHP, MySQL.**
 
 <a href="https://www.github.com/KaviniPramudika" target="_blank" rel="noreferrer"><img
