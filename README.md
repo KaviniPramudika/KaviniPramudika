@@ -2,7 +2,6 @@
 <p align="center"><img alt="Coding" width="100%" src="https://miro.medium.com/v2/resize:fit:1100/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"></p>
 
 <h1 align="center">Hi there, I'm Kavini Wickramasooriya</h1>
-//<h3 align="center">I'm an undergraduate in Software Engineering.</h3>
 
 <p align="center">🚀 Welcome to my GitHub! I'm a passionate full-stack developer, and this is my digital playground where I bring ideas to life through code. Explore my repositories to witness my journey in crafting software solutions. Whether you're here to collaborate, learn, or just curious, feel free to browse around. Together, let's build and innovate! 🚀</p>
 
