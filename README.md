@@ -7,9 +7,9 @@
 
 <h3 align="center">How to reach me:</h3>
 <p align="center">
-  <a href="mailto:hansikashamindi1211@gmail.com">hansikashamindi1211@gmail.com</a> |
-  <a href="https://shamindi-hettisinghe.netlify.app/">Portfolio</a> |
-  <a href="https://linkedin.com/in/kavini-wickramasooriya">LinkedIn</a>
+  <a href="mailto:kaviniwickramasooriya@gmail.com">hansikashamindi1211@gmail.com</a> |
+  <a href="https://kavini-wickramasooriya.pages.dev/">Portfolio</a> |
+  <a href="https://linkedin.com/in/kavini-wickramasooriya/">LinkedIn</a>
 </p><br>
 
 - 🌱 I’m currently learning **Java, MERN Stack, Python.**
