@@ -5,7 +5,7 @@
 
 <p align="center">🚀 Welcome to my GitHub! I'm a passionate full-stack developer, and this is my digital playground where I bring ideas to life through code. Explore my repositories to witness my journey in crafting software solutions. Whether you're here to collaborate, learn, or just curious, feel free to browse around. Together, let's build and innovate! 🚀</p>
 
-<h3 align="center">How to reach me:</h3>
+<h3 align="center">📫 How to reach me:</h3>
 <p align="center">
   <a href="mailto:kaviniwickramasooriya@gmail.com">hansikashamindi1211@gmail.com</a> |
   <a href="https://kavini-wickramasooriya.pages.dev/">Portfolio</a> |
@@ -25,7 +25,6 @@ src="https://img.shields.io/github/followers/KaviniPramudika?logo=github&style=f
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kavini-wickramasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavini-wickramasooriya" height="30" width="40" /></a>
 <a href="https://fb.com/kavini.pramudika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavini.pramudika" height="30" width="40" /></a>
 <a href="https://instagram.com/kavini_pramudika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavini_pramudika" height="30" width="40" /></a>
 </p>
