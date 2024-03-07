@@ -6,8 +6,6 @@
 
 <p align="center">🚀 Welcome to my GitHub! I'm a passionate full-stack developer, and this is my digital playground where I bring ideas to life through code. Explore my repositories to witness my journey in crafting software solutions. Whether you're here to collaborate, learn, or just curious, feel free to browse around. Together, let's build and innovate! 🚀</p>
 
-<h3 align="center">💬 Ask me about web development</h3>
-
 <h3 align="center">How to reach me:</h3>
 <p align="center">
   <a href="mailto:hansikashamindi1211@gmail.com">hansikashamindi1211@gmail.com</a> |
@@ -22,8 +20,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/KaviniPramudika](https://github.com/KaviniPramudika)
 
 - 💬 Ask me about **C, C++, HTML, CSS, JavaScript, PHP, MySQL.**
-
-- 📫 How to reach me **kaviniwickramasooriya@gmail.com**
 
 <a href="https://www.github.com/KaviniPramudika" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KaviniPramudika?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
