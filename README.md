@@ -1,3 +1,17 @@
+<h1 align="center">👋 WELCOME TO MY PROFILE 👋</h1>
+<p align="center"><img alt="Coding" width="100%" src="https://miro.medium.com/v2/resize:fit:1100/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"></p>
+<h2 align="center">Hi there, I'm Shamindi Hettisighe</h2>
+<p align="center">🚀 Welcome to my GitHub! I'm a passionate full-stack developer, and this is my digital playground where I bring ideas to life through code. Explore my repositories to witness my journey in crafting software solutions. Whether you're here to collaborate, learn, or just curious, feel free to browse around. Together, let's build and innovate! 🚀</p>
+
+<h3 align="center">💬 Ask me about web development</h3>
+
+<h3 align="center">How to reach me:</h3>
+<p align="center">
+  <a href="mailto:hansikashamindi1211@gmail.com">hansikashamindi1211@gmail.com</a> |
+  <a href="https://shamindi-hettisinghe.netlify.app/">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/shamindi-3b5632215/">LinkedIn</a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Kavini Wickramasooriya</h1>
 <h3 align="center">I'm an undergraduate in Software Engineering.</h3>
 
