@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:kaviniwickramasooriya@gmail.com">kaviniwickramasooriya@gmail.com</a> |
   <a href="https://kavini-wickramasooriya.pages.dev/">Portfolio</a> |
-  <a href="https://linkedin.com/in/kavini-wickramasooriya/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/kavini-wickramasooriya-937a70179/">LinkedIn</a>
 </p>
 
 - 🌱 I’m currently learning **Java, MERN Stack, Python.**
